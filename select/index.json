@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "またねがあれば",
+  "base_artist": "MIREI",
+  "createdAt": "2025-12-23T06:19:30.128801Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "またねがあれば (如果还有再见的话)",
+      "artist": "當山みれい",
+      "has_synced": true,
+      "path": "select/01_またねがあれば_(如果还有再见的话)_當山みれい.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "またねがあれば",
+      "artist": "當山みれい",
+      "has_synced": false,
+      "path": "select/pl_01_またねがあれば_當山みれい.txt"
+    }
+  ]
+}
